@@ -17,7 +17,13 @@ body {
     justify-content: center;
     flex-direction: column;
 }
-
+.logo1 .img1{
+    margin-left:20%;
+  }
+   .img1 img{
+    width: 100px;
+    height: 70px;
+  }
 .music-container {
     background-color: #fff;
     border-radius: 15px;
